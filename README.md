@@ -1,6 +1,6 @@
 # Virtual Stock Market
 
-* A "Virtual Stock Market" web application for stock trading for my CS50 Final Project
+* A Virtual Stock Market web application for stock trading for my CS50 Final Project
 
 # What's this website for?
 
